@@ -1,0 +1,33 @@
+{
+  "name": "convertjson",
+  "version": "1.0.0",
+  "description": "ini adalah code untuk convert error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juancesar123/clinodejs.git"
+  },
+  "bin": {
+    "fav": "./bin/index.js"
+  },
+  "keywords": [
+    "ini",
+    "adalah",
+    "cli",
+    "nodejs"
+  ],
+  "author": "juan ceasar andrianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juancesar123/clinodejs/issues"
+  },
+  "homepage": "https://github.com/Juancesar123/clinodejs#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0",
+    "yargs": "^17.5.1"
+  }
+}
